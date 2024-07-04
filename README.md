@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dena-shiranipour
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Java, SQL, Spring, JavaScript
+- 🌱 I’m currently learning Java, SQL, Spring, JavaScript, React
 
 <!---
 dena-shiranipour/dena-shiranipour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
